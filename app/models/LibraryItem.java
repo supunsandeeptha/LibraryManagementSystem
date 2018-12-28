@@ -2,7 +2,7 @@ package models;
 
 public abstract class LibraryItem {
 
-    private String title;
+    private String title; //variable to store the title
     private String sector;
     private String pubDate;
     private java.util.Date borrowedDate;
